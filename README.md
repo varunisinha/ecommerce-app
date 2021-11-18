@@ -2,7 +2,8 @@
 
 ## Explanation video links: 
 ![watch the video](https://github.com/varunisinha/ecommerce-app/blob/main/assets/seed.gif)
-
+![watch the video](https://github.com/varunisinha/ecommerce-app/blob/main/assets/server-start.gif)
+![watch the video](https://github.com/varunisinha/ecommerce-app/blob/main/assets/e-commerce.gif)
 ## Your Task
 
 Internet retail, also known as **e-commerce**, is the largest sector of the electronics industry, generating an estimated $29 trillion in 2019. E-commerce platforms like Shopify and WooCommerce provide a suite of services to businesses of all sizes. Due to their prevalence, understanding the fundamental architecture of these platforms will benefit you as a full-stack web developer.
