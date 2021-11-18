@@ -1,6 +1,7 @@
-# ecommerce-app
+# E-commerce-app
 
 ## Explanation video links: 
+![watch the video](https://github.com/varunisinha/ecommerce-app/blob/main/assets/seed.gif)
 
 ## Your Task
 
